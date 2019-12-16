@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 足球介绍
+足球被誉为“世界第一运动”，全球体育界最具影响力的体育运动。
+标准的11人制足球比赛由两队各派10名球员与1名守门员，总共22人，在长方形的草地球场上对抗。
+正规时间，上下半场各45分钟，共90分钟。比赛时尽量将足球射入对方的球门内，每射入一球就可以得到一分，当比赛完毕后，得分多的一队则胜出。如果在比赛规定时间内得分相同，则须看比赛章则而定，可以抽签、加时再赛或互射点球（十二码）等形式比赛分高下。
+足球比赛中除了守门员可以在己方禁区内利用手部接触足球外，球场上每名球员只可以利用手以外的身体其他部分控制足球（开界外球例外）。
+ 古代足球起源于中国的战国时期的蹴鞠，而现代足球则起源于英国
 
-You can use the [editor on GitHub](https://github.com/alexisgaoshen/alexisgaoshen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexisgaoshen/alexisgaoshen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+关于比赛场地
+1.	场地面积：比赛场地应为长方形，其长度不得多于120米或少于90米，宽度不得多于90米或少于45米（国际比赛的场地长度不得多于110米或少于100米，宽度不得多于75米或少于64米）。在任何情况下，长度必须超过宽度。
+　　2. 画线：比赛场地应按照平面图画出清晰的线条，线宽不得超过12厘米，不得做成“V”形凹槽。较长的两条线叫边线，较短的叫端线。场地中间画一条横穿球场的线，叫中线。场地中央应当做一个明显的标记，并以此点为圆心，以9.15米为半径，画一个圆圈叫中圈。场地每个角上应各竖一面不低于1.50米高的平顶 旗杆，上系小旗一面；相似的旗和旗杆可以各竖一面在场地两侧正对中线的边线外至少：米处。
+　　3.球门区：在比赛场地两端距球门柱内侧5.50米处的球门线上，向场内各画一条长5.50米与球门线垂直的线，一端与球门线相接，另一端画一条连接线与球门线平行，这三条线与球门线范围内的地区叫球门区。
+　　4.罚球区：在比赛场地两端距球门柱内侧16.50米处的球门线上，这三条线与球门线范围内的地区叫罚球区，在两球门线中点垂直向场内量11米处各做一个清晰的标记，叫罚球点。以罚球点为圆心，以9.15米为半径，在罚球区外画一段弧线，叫罚球弧。
+　　5.角球区：以边线和球门线交叉点为圆心，以1米为半径，向场内各画一段四分之一的圆弧，这个弧内地区叫角球区。
+　　6. 球门：球门应设在每条球门线的中央，由两根相距7.32米、与两面角旗点相等距离、直立门柱与一根下沿离地面2.44米的水平横木连接组成，为确保安全， 无论是固定球门或可移动球门都必须稳定地固定在场地上。门柱及横木的宽度与厚度，均应对称相等，不得超过12厘米。 　球网附加在球门后面的门柱及横木和地上。球网应适当撑起，使守门员有充分活动的空间。 　
